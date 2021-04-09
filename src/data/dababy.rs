@@ -1,3 +1,4 @@
+pub const URL:&'static str = "https://github.com/cytoo/dababy/releases/download/0.1/go.mp3";
 pub const DABABY:&'static str = "
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣽⣿⣶⡮⣿⣶⣖⣤⣭⣝⣹⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⢰⠟⣿⣿⣿⣷⣿⣿⠳⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
