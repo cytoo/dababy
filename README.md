@@ -2,6 +2,10 @@
 
 small rust tool inspired from cowsay
 
+<img alt="Crates.io" src="https://img.shields.io/crates/d/dababy">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/cytoo/dababy?style=plastic">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/cytoo/dababy">
+
 ## Installation
 
 first of all you'll need cargo (the rust package manager)
@@ -16,4 +20,5 @@ after that run the following command:
 
 ## Commands
 `dababy <message>`
-`-b flag` for blue dababy
+
+`-b` for blue dababy
