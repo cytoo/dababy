@@ -15,3 +15,5 @@ after that run the following command:
 `cargo install dababy`
 
 ## Commands
+`dababy <message>`
+`-b flag` for blue dababy
