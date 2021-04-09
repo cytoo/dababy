@@ -1,0 +1,15 @@
+[package]
+name = "dababy"
+version = "0.1.0"
+authors = ["cytoo <akthoamaaa14@gmail.com>"]
+readme = "README.md"
+description = "a cowsay clone for the dababy"
+repository = "https://github.com/cytoo/dababy"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+structopt = "0.3.21"
+colored = "2.0.0"
+rodio = "0.13.1"
